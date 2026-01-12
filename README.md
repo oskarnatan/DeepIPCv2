@@ -13,6 +13,7 @@ Step:
 
 AUTO DRIVING RECORD:\
 DeepIPCv2:\
-<img src="xr20/docs/xr20_seg_seq1_2022-10-28_route21.gif" width="600">
+<img src="xr20/docs/xr20_seg_seq1_2022-10-28_route21.gif" width="600"> \
+
 TransFuser:\
 <img src="TF/docs/tf_seq1_2022-10-28_route21.gif" width="600">
